@@ -1,0 +1,16 @@
+to add portfolio section in sidebar 
+paste this navbar code in index file of side bar
+ imort === faSuitcase,
+===<NavLink
+          activeclassname="active"
+          className="portfolio-link"
+          to="/portfolio"
+          onClick={() => setShowNav(false)}
+        >
+        
+          <FontAwesomeIcon icon={faSuitcase} color="#4d4d4e" />
+        </NavLink>
+
+And in app.js 
+======import import Portfolio from './components/Portfolio'
+======<Route path="/portfolio" element={<Portfolio />} />
