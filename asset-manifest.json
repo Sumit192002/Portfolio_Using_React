@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio_Using_React/static/css/main.674f94f1.css",
-    "main.js": "/Portfolio_Using_React/static/js/main.aa790c43.js",
+    "main.js": "/Portfolio_Using_React/static/js/main.0b3699da.js",
     "static/js/787.c12fc5af.chunk.js": "/Portfolio_Using_React/static/js/787.c12fc5af.chunk.js",
     "static/media/Linux.svg": "/Portfolio_Using_React/static/media/Linux.0cb7bf4e5cb9ed5e2333d50935fad3d4.svg",
     "static/media/helvetica-neu.ttf": "/Portfolio_Using_React/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
@@ -14,11 +14,11 @@
     "index.html": "/Portfolio_Using_React/index.html",
     "static/media/Ansible.svg": "/Portfolio_Using_React/static/media/Ansible.026dcf99305492efaa9d6aa117e94782.svg",
     "main.674f94f1.css.map": "/Portfolio_Using_React/static/css/main.674f94f1.css.map",
-    "main.aa790c43.js.map": "/Portfolio_Using_React/static/js/main.aa790c43.js.map",
+    "main.0b3699da.js.map": "/Portfolio_Using_React/static/js/main.0b3699da.js.map",
     "787.c12fc5af.chunk.js.map": "/Portfolio_Using_React/static/js/787.c12fc5af.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.674f94f1.css",
-    "static/js/main.aa790c43.js"
+    "static/js/main.0b3699da.js"
   ]
 }
